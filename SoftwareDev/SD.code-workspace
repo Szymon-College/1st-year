@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "SD",
+			"path": "."
+		},
+		{
+			"name": "week1",
+			"path": "../week1"
+		}
+	],
+	"settings": {}
+}
